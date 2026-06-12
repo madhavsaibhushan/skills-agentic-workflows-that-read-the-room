@@ -28,7 +28,10 @@ Use these official sources:
 - `https://github.blog/latest/`
 - `https://github.blog/changelog/`
 
+
 Update `site/content/github-info.md` with a concise summary of new GitHub Blog and Changelog content. Maintain markdown formatting, include dates and links, and keep the page focused on practical updates for readers.
+
+Before opening pull request check the workflow used mona's notes,github blog(https://github.blog/latest/),github changelog(https://github.blog/changelog/)
 
 Open a pull request for Mona to review. Use `safe-outputs.create-pull-request` so the workflow proposes changes instead of writing directly to `main`.
 
