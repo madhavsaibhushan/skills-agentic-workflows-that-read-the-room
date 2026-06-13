@@ -7,7 +7,7 @@ on:
     - cron: '0 0 * * *'
 permissions:
   contents: read
-  pull-requests:read
+  pull-requests: read
 safe-outputs:
   create-pull-request:
     title-prefix: "Update GitHub Info: "
