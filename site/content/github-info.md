@@ -17,3 +17,6 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 ## Latest GitHub Updates
 
 - GitHub now supports faster code scanning results and improved merge conflict resolution.
+## Latest GitHub Updates
+
+- GitHub now shows the latest branch status and workflow results directly in the repository overview.
