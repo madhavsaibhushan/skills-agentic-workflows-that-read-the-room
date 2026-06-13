@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '17 9 * * *'
+engine: copilot
 permissions:
   contents: read
 safe-outputs:
@@ -20,7 +21,6 @@ network:
     - github.com
     - github.blog
     - awesome-copilot.github.com
----
 
 # Update Mona's GitHub Info website
 
