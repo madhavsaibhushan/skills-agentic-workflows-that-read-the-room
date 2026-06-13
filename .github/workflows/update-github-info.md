@@ -22,6 +22,8 @@ network:
     - github.blog
     - awesome-copilot.github.com
 
+---
+
 # Update Mona's GitHub Info website
 
 Read `notes/mona-notes.md` before making changes.
