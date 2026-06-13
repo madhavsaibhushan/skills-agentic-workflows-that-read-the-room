@@ -33,6 +33,6 @@ Update `site/content/github-info.md` with a concise summary of new GitHub Blog a
 
 Before opening pull request check the workflow used mona's notes,github blog(https://github.blog/latest/),github changelog(https://github.blog/changelog/)
 
-Open a pull request for Mona to review. Use `safe-outputs.create-pull-request` so the workflow proposes changes instead of writing directly to `main`.
+create  a pull request for Mona to review. Use `safe-outputs.create-pull-request` so the workflow proposes changes instead of writing directly to `main`.
 
 If no substantive update is needed, call `noop` with a short explanation rather than opening a pull request.
