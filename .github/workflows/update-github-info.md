@@ -5,7 +5,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '17 9 * * *'
-engine: copilot
 permissions:
   contents: read
 safe-outputs:
